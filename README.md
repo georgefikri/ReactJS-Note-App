@@ -1,5 +1,5 @@
-# ReactJS Form Components
-- creating a Form with ReactJS and add each block into it's own component
+# ReactJS Note-Taking App
+- Creating a Note-Taking App using ReactJS
 
 ### Files used
 - /src/index.js
