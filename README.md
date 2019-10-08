@@ -8,6 +8,9 @@
 - /src/LeftSide.js
 - /src/RightSide.js
 
+### Install escapeRegExp 
+- You'll need to install ```npm install --save escape-string-regexp```  for the search to work
+
 
 ### Available Scripts
 
