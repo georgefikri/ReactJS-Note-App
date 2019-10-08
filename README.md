@@ -5,8 +5,8 @@
 - /src/index.js
 - /src/App.js
 - /src/index.css
-- /src/components/LeftSide.js
-- /src/components/RightSide.js
+- /src/LeftSide.js
+- /src/RightSide.js
 
 
 ### Available Scripts
